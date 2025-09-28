@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1758987270|6732023534';
+const CACHE_VERSION = '1759042323|6806285914';
 /** @type {string} */
 const CACHE_PREFIX = 'GreenStar-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
